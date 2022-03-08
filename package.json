@@ -1,5 +1,5 @@
 {
-  "name": "@kensuio/d3-sankey-circular",
+  "name": "@kensu/d3-sankey-circular",
   "version": "0.35.0",
   "description": "D3 sankey with circular links. Fork of tomshanley's lib",
   "author": "Tom Shanley",
