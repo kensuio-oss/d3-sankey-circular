@@ -1,7 +1,7 @@
 {
-  "name": "d3-sankey-circular",
-  "version": "0.34.0",
-  "description": "D3 sankey with circular links",
+  "name": "@kensuio/d3-sankey-circular",
+  "version": "0.35.0",
+  "description": "D3 sankey with circular links. Fork of tomshanley's lib",
   "author": "Tom Shanley",
   "license": "MIT",
   "repository": {
